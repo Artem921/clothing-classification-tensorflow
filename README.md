@@ -9,6 +9,8 @@ numpy-1.18.1
 keras-2.0.0
 tensorflow-2.3.1
 
+
+error optimization:
 ![Image alt](https://github.com/Artem921/clothing-classification-tensorflowlearning/learning/loss.png)
 
 
