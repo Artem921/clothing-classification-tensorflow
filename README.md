@@ -9,7 +9,7 @@ numpy-1.18.1
 keras-2.0.0
 tensorflow-2.3.1
 
-![Image alt](https://github.com/Artem921/clothing-classification-tensorflowlearning/Снимок экрана от 2020-07-11 13-44-22.png)
+![Image alt](https://github.com/Artem921/clothing-classification-tensorflowlearning/learning/loss.png)
 
 
 
